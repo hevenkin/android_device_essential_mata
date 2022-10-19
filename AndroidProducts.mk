@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES += \
-    device/essential/mata/lineage_mata.mk
+    device/essential/mata/kscope_mata.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_mata-user \
-    lineage_mata-userdebug \
-    lineage_mata-eng
+    kscope_mata-user \
+    kscope_mata-userdebug \
+    kscope_mata-eng
